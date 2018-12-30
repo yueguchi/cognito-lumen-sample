@@ -2995,7 +2995,7 @@
                             },
                             "5": {
                                 "cwd": "/var/www/html",
-                                "command": "git clone https://github.com/yueguchi/aws-cfn-template-with-lumen.git"
+                                "command": "git clone https://github.com/yueguchi/cognito-lumen-sample.git"
                             },
                             "6": {
                                 "env": {
